@@ -1,0 +1,20 @@
+.vs/
+# 專案名稱
+CoreMvcTemplate/bin/
+CoreMvcTemplate/obj/
+
+#Logs檔案
+CoreMvcTemplate/Logs
+
+#特定file
+#CoreMvcTemplate/wwwroot/特定file
+
+#Migrations folder
+CoreMvcTemplate/Migrations
+
+#發佈設定檔
+CoreMvcTemplate/Properties/PublishProfiles
+
+
+*.suo
+*.user
